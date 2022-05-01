@@ -1,0 +1,6 @@
+.vagrant
+input*
+output*
+freesurfer-linux-*
+ubuntu-*-console.log
+license.txt
